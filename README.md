@@ -1,2 +1,1 @@
-# example-for-design-patterns
-a sample app to explain design patterns
+Sample code for [Medium article](https://medium.com/@benjaminchamwb/enhancing-code-quality-with-design-patterns-5f95ade37ee)
